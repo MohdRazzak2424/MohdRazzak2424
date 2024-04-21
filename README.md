@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Razaak</h1>
+<h1 align="center">Hi 👋, I'm Mohd Razzak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Generative AI app](https://github.com/MohdRazzak2424/GenAI)
