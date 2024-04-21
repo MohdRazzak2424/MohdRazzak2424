@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Generative AI app](https://github.com/MohdRazzak2424/GenAI)
 
-- 🌱 I’m currently learning **DSA-C++,APP & Dapp DEVELOPMENT(FLUTTER,DART,SOLIDITY),DATA ANALYSIS(PYTHON,NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI)**
+- 🌱 I’m currently learning **DSA-C++,APP & Dapp DEVELOPMENT-(FLUTTER,DART,SOLIDITY)  DATA ANALYSIS-(PYTHON,NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI)**
 
 - 👯 I’m looking to collaborate on **ARTIFICIAL INTELIGENCE AND BLOCKCHAIN TECHNOLOGY**
 
