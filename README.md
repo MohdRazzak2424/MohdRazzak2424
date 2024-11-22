@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Razzak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend & backend developer from India</h3>
 
-- 🔭 I’m currently working on [Generative AI app](https://github.com/MohdRazzak2424/GenAI)
+- 🔭 I’m currently working on [Generative AI app](https://github.com/MohdRazzak2424/GenAI),[Generative story  AI app](https://github.com/MohdRazzak2424/FAIRY_AI) 
 
 - 🌱 I’m currently learning **DSA-C++,APP & Dapp DEVELOPMENT-(FLUTTER,DART,SOLIDITY)  DATA ANALYSIS-(PYTHON,NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI)**
 
